@@ -21,7 +21,7 @@ I enjoy building intelligent solutions for biological problems using ML/DL, mole
 ### 📫 Connect with Me
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=BwQ_KLYAAAAJ&hl=en)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-vikas-kumar-48546a98)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-vikas-kumar-48546a98](https://www.linkedin.com/in/vikas-kumar-ph-d-48546a98/))
 
 ---
 
