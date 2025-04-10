@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://raw.githubusercontent.com/drvikaskumar/drvikaskumar/main/AI%20Vikas.png" alt="AI Banner" width="100%" />
+
 <!--
 **drvikaskumar/drvikaskumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
