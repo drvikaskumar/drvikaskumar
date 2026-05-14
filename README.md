@@ -9,9 +9,9 @@
 ### AI-Driven Drug Discovery | Computational Biologist | Molecular Modeling & Simulations
 
 [![Google Scholar](https://img.shields.io/badge/GOOGLE_SCHOLAR-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=BwQ_KLYAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-vikas-kumar-48546a98/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4468-3459)
 [![Scopus](https://img.shields.io/badge/SCOPUS-E9711C?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57294761500)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-vikas-kumar-48546a98/)
 
 </div>
 
