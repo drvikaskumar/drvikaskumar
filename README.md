@@ -30,8 +30,9 @@ My research integrates machine learning, deep learning, molecular modeling, and 
 ### 🎯 Current Focus
 
 - AI for multi-target drug discovery
-- Learning: Generative AI, QSAR-GNNs, and RNA-seq
-- Open to collaborations on computational drug design & Bio-AI projects
+- Generative AI, QSAR-GNNs, and RNA-seq
+- Computational drug design & Bio-AI workflows
+- ML-assisted virtual screening pipelines
 
 </td>
 
@@ -41,7 +42,7 @@ My research integrates machine learning, deep learning, molecular modeling, and 
 
 - AI/ML & Deep Learning in Drug Discovery
 - QSAR Modeling & Virtual Screening
-- Molecular Docking & Dynamics Simulations
+- Molecular Docking & MD Simulations
 - Protein–Ligand Interactions
 - Graph Neural Networks
 - Bioinformatics & Omics Data Analysis
@@ -50,7 +51,7 @@ My research integrates machine learning, deep learning, molecular modeling, and 
 
 `Python` `PyTorch` `TensorFlow` `scikit-learn` `RDKit` `DeepChem`
 
-`GROMACS` `AutoDock Vina` `Linux` `SLURM` `CUDA` `Git`
+`GROMACS` `AutoDock Vina` `Linux` `SLURM` `CUDA`
 
 `Jupyter` `Pandas` `NumPy` `R` `SQL` `BioPython`
 
@@ -65,12 +66,16 @@ My research integrates machine learning, deep learning, molecular modeling, and 
 ### Deep Learning Virtual Screening
 AI-driven QSAR and virtual screening workflow using machine learning and deep learning.
 
-🔗 Repository: https://github.com/drvikaskumar/deep-learning-virtual-screening
+🔗 Repository:  
+https://github.com/drvikaskumar/deep-learning-virtual-screening
+
+---
 
 ### BRD4BD2 PROTAC MD Simulation
 Molecular dynamics simulation workflows for targeted protein degradation studies.
 
-🔗 Repository: https://github.com/drvikaskumar/BRD4BD2-PROTAC-MD-Simulation
+🔗 Repository:  
+https://github.com/drvikaskumar/BRD4BD2-PROTAC-MD-Simulation
 
 ---
 
@@ -78,9 +83,9 @@ Molecular dynamics simulation workflows for targeted protein degradation studies
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=drvikaskumar&show_icons=true&theme=transparent" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=drvikaskumar&theme=default&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drvikaskumar&layout=compact&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drvikaskumar&layout=compact&hide_border=true" />
 
 </div>
 
