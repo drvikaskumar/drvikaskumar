@@ -1,132 +1,93 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/drvikaskumar/drvikaskumar/main/banner.png" alt="AI Drug Discovery Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/drvikaskumar/drvikaskumar/main/banner.png" width="100%" />
 
-# Hi there 👋, I'm Vikas Kumar
+# Hi there 👋
 
-### Computational Biologist | AI-Driven Drug Discovery Researcher | Molecular Modeling & Simulation Scientist
+## Vikas Kumar
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=BwQ_KLYAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-vikas-kumar-48546a98/)
+### AI-Driven Drug Discovery | Computational Biologist | Molecular Modeling & Simulations
+
+[![Google Scholar](https://img.shields.io/badge/GOOGLE_SCHOLAR-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=BwQ_KLYAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-vikas-kumar-48546a98/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4468-3459)
-[![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57294761500)
+[![Scopus](https://img.shields.io/badge/SCOPUS-E9711C?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57294761500)
 
 </div>
 
 ---
 
-## About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I am a **Computational Biologist** and **AI-driven drug discovery researcher** working at the interface of **machine learning, molecular modeling, cheminformatics, molecular dynamics simulations, and bioinformatics**.
+## 👤 About Me
 
-My research focuses on developing and applying computational workflows for **drug discovery, protein-ligand interaction analysis, QSAR modeling, virtual screening, molecular simulations, and AI-assisted therapeutic design**.
+I am a Computational Biologist and AI-driven Drug Discovery Researcher currently working as a Postdoctoral Researcher at BCMaterials, Spain.
 
-I am particularly interested in building reproducible and publication-quality pipelines that connect:
+My research integrates machine learning, deep learning, molecular modeling, and high-performance computing to solve complex biological problems and accelerate the discovery of novel therapeutics.
 
-**Molecular Data → Machine Learning / Deep Learning → Virtual Screening → Docking → Molecular Dynamics → Experimental Validation**
+### 🎯 Current Focus
 
----
+- AI for multi-target drug discovery
+- Learning: Generative AI, QSAR-GNNs, and RNA-seq
+- Open to collaborations on computational drug design & Bio-AI projects
 
-## Research Interests
+</td>
 
-- AI-assisted drug discovery
-- Ligand-based and structure-based virtual screening
-- QSAR, multitask learning, and graph neural networks
-- Molecular docking and molecular dynamics simulations
-- Protein-ligand and protein-material interactions
-- Cheminformatics and bioinformatics workflow development
-- Antiviral, antibacterial, and targeted protein degradation research
-- HPC-based molecular modeling and simulation pipelines
+<td width="50%" valign="top">
 
----
+## 🔬 Research Interests
 
-## Technical Skills
+- AI/ML & Deep Learning in Drug Discovery
+- QSAR Modeling & Virtual Screening
+- Molecular Docking & Dynamics Simulations
+- Protein–Ligand Interactions
+- Graph Neural Networks
+- Bioinformatics & Omics Data Analysis
 
-### Programming & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## 🛠️ Tech Stack & Tools
 
-### Machine Learning & Deep Learning
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6A5ACD?style=for-the-badge)
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `RDKit` `DeepChem`
 
-### Cheminformatics & Molecular Modeling
-![RDKit](https://img.shields.io/badge/RDKit-336699?style=for-the-badge)
-![GROMACS](https://img.shields.io/badge/GROMACS-0076BE?style=for-the-badge)
-![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-4B8BBE?style=for-the-badge)
-![Molecular Docking](https://img.shields.io/badge/Molecular%20Docking-AF2D63?style=for-the-badge)
-![MD Simulations](https://img.shields.io/badge/Molecular%20Dynamics-007ACC?style=for-the-badge)
-![VMD](https://img.shields.io/badge/VMD-008080?style=for-the-badge)
-![PyMOL](https://img.shields.io/badge/PyMOL-2E8B57?style=for-the-badge)
+`GROMACS` `AutoDock Vina` `Linux` `SLURM` `CUDA` `Git`
 
-### Research Computing
-![HPC](https://img.shields.io/badge/HPC-111827?style=for-the-badge)
-![SLURM](https://img.shields.io/badge/SLURM-0B7285?style=for-the-badge)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+`Jupyter` `Pandas` `NumPy` `R` `SQL` `BioPython`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Focus
-
-- Developing **AI/ML-based virtual screening pipelines** for drug discovery
-- Building **QSAR and deep learning models** for compound activity prediction
-- Integrating **ML, docking, and molecular dynamics** for hit prioritization
-- Exploring **graph neural networks and generative AI** for molecular design
-- Expanding into **bioinformatics and RNA-seq analysis** for target discovery
-
----
-
-## Featured Projects
+## 🚀 Featured Projects
 
 ### Deep Learning Virtual Screening
-A developing repository for ligand-based virtual screening and QSAR regression using machine learning and deep learning.
+AI-driven QSAR and virtual screening workflow using machine learning and deep learning.
 
-- ECFP4 fingerprints
-- Ensemble regression models
-- Screening pipeline
-- Publication-quality plots
-- Future integration with docking and MD validation
-
-Repository: [deep-learning-virtual-screening](https://github.com/drvikaskumar/deep-learning-virtual-screening)
+🔗 Repository: https://github.com/drvikaskumar/deep-learning-virtual-screening
 
 ### BRD4BD2 PROTAC MD Simulation
-Input files and modeled structures used in molecular dynamics simulations of BRD4BD2-MZ1/AT1 complexes for targeted protein degradation research.
+Molecular dynamics simulation workflows for targeted protein degradation studies.
 
-Repository: [BRD4BD2-PROTAC-MD-Simulation](https://github.com/drvikaskumar/BRD4BD2-PROTAC-MD-Simulation)
+🔗 Repository: https://github.com/drvikaskumar/BRD4BD2-PROTAC-MD-Simulation
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=drvikaskumar&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=drvikaskumar&show_icons=true&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drvikaskumar&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drvikaskumar&layout=compact&hide_border=true" />
 
 </div>
 
 ---
 
-## Connect With Me
-
-- Google Scholar: [Vikas Kumar](https://scholar.google.com/citations?user=BwQ_KLYAAAAJ&hl=en)
-- ORCID: [0000-0003-4468-3459](https://orcid.org/0000-0003-4468-3459)
-- Scopus Author ID: [57294761500](https://www.scopus.com/authid/detail.uri?authorId=57294761500)
-- LinkedIn: [Vikas Kumar](https://www.linkedin.com/in/dr-vikas-kumar-48546a98/)
-
----
-
 <div align="center">
 
-### Open to collaborations in computational drug discovery, AI for biology, molecular modeling, and bioinformatics.
+### Turning complex biology into actionable insights through computation and AI.
 
 </div>
