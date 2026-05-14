@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/drvikaskumar/drvikaskumar/main/banner.png" alt="AI Drug Discovery Banner" width="100%" />
 
-# Hi there 👋, I'm Dr. Vikas Kumar
+# Hi there 👋, I'm Vikas Kumar
 
 ### Computational Biologist | AI-Driven Drug Discovery Researcher | Molecular Modeling & Simulation Scientist
 
@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-vikas-kumar-48546a98/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4468-3459)
 [![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57294761500)
-[![GitHub](https://img.shields.io/badge/GitHub-drvikaskumar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drvikaskumar)
 
 </div>
 
@@ -122,8 +121,7 @@ Repository: [BRD4BD2-PROTAC-MD-Simulation](https://github.com/drvikaskumar/BRD4B
 - Google Scholar: [Vikas Kumar](https://scholar.google.com/citations?user=BwQ_KLYAAAAJ&hl=en)
 - ORCID: [0000-0003-4468-3459](https://orcid.org/0000-0003-4468-3459)
 - Scopus Author ID: [57294761500](https://www.scopus.com/authid/detail.uri?authorId=57294761500)
-- LinkedIn: [Dr. Vikas Kumar](https://www.linkedin.com/in/dr-vikas-kumar-48546a98/)
-- GitHub: [drvikaskumar](https://github.com/drvikaskumar)
+- LinkedIn: [Vikas Kumar](https://www.linkedin.com/in/dr-vikas-kumar-48546a98/)
 
 ---
 
