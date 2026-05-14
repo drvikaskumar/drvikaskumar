@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/drvikaskumar/drvikaskumar/main/AI%20Vikas.png" alt="AI Banner" width="100%" />
-
 # Hi there 👋, I'm Dr. Vikas Kumar
 
 ### Computational Biologist | AI-Driven Drug Discovery Researcher | Molecular Modeling & Simulation Scientist
